@@ -12,4 +12,4 @@
 - Midterm exam：84/100
 - Midterm presentation：84/100
 - Final presentation：87.86/100
-- Attend：85/85
+- Attendance score：85/85
