@@ -24,7 +24,7 @@
   - 系統脆弱
 
 ## 相近技術比較：Kafka vs RabbitMQ
-<div align = left><img width="600" height="300" src="https://github.com/RickZhang0730/Distributed-Systems/blob/main/Apache%20Kafka/Kafka_vs_RabbitMQ.png"></div>
+<div align = left><img width="600" height="300" src="https://github.com/RickZhang0730/Distributed-Systems/blob/main/Apache%20Kafka/Kafka_vs_RabbitMQ.jpg"></div>
 
 ## 比較下 Kafka 的優勢
 - Kafka 在訊息傳輸容量方面優於 RabbitMQ，在處理大量資料方面表現出色
